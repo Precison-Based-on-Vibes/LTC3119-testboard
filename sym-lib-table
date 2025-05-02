@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MCP48FEB")(type "KiCad")(uri "${KIPRJMOD}/_Symbol_library/MCP48FEB.kicad_sym")(options "")(descr ""))
+)
